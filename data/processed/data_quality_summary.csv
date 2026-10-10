@@ -1,0 +1,11 @@
+Metric,Value
+Original Observations,1567
+Original Sensor Variables,590
+Total Missing Values (Raw),41951
+Duplicate Records,0
+Sensors >40% Missing,32
+Constant Sensors,116
+Sensors Removed,148
+Remaining Sensor Variables,442
+Final Observations,1567
+Remaining Missing Values,0

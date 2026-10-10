@@ -1,0 +1,11 @@
+Metric,Value
+Total Observations,1567
+Pass,1463
+Fail,104
+Yield Rate (%),93.36
+Failure Rate (%),6.64
+Primary Candidate Variable,Sensor_060
+Process Mean,2.951
+Upper Control Limit,31.487
+Lower Control Limit,-25.584
+Observations Outside Control Limits,5
